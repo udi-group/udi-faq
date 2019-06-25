@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/udi-faq/precache-manifest.d4debbbfad14b8c4ad23e5e0aca27d7a.js"
+  "/udi-faq/precache-manifest.3f5a75c2675a30bed86b6f84a4964bba.js"
 );
 
 self.addEventListener('message', (event) => {
