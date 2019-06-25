@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e1b6b511a151178b1f6f047df2bd870f",
+    "revision": "cf51667183448ee3117dc4acf146145f",
     "url": "/udi-faq/index.html"
   },
   {
-    "revision": "839779f94caa26b4393c",
+    "revision": "1cca816dc16c3b6d9fa8",
     "url": "/udi-faq/static/css/main.184f1582.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/udi-faq/static/js/2.b41502e9.chunk.js"
   },
   {
-    "revision": "839779f94caa26b4393c",
-    "url": "/udi-faq/static/js/main.08832202.chunk.js"
+    "revision": "1cca816dc16c3b6d9fa8",
+    "url": "/udi-faq/static/js/main.d7c4f279.chunk.js"
   },
   {
     "revision": "8abe5bdcb55facafc9c2",
